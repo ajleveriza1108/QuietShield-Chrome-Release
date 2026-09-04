@@ -1,1 +1,1 @@
-c36ed6aae66fde55cf7fd6391ac6dbfc48dbc95819eef972fb523e40c43b8500  QuietShield-Chrome-1.0.3-R4.zip
+4ebf4b62aba6c48c07ddd831bc968407215d02585f498ac03f8c2a2f1018dc94  QuietShield-Chrome-1.0.4-R5.zip
