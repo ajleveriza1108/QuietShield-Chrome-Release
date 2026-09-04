@@ -1,10 +1,10 @@
 {
   "product": "QuietShield Chrome",
-  "version": "1.0.4",
-  "revision": "R5",
-  "package": "QuietShield-Chrome-1.0.4-R5.zip",
-  "sha256": "4ebf4b62aba6c48c07ddd831bc968407215d02585f498ac03f8c2a2f1018dc94",
+  "version": "1.0.5",
+  "revision": "R6",
+  "package": "QuietShield-Chrome-1.0.5-R6.zip",
+  "sha256": "2f60391a4b173f86b0a4f1251379fe86dfa02384da63c9f283e3a75627ec7c54",
   "sourceRepo": "https://github.com/ajleveriza1108/QuietShield-Chrome",
   "releaseRepo": "https://github.com/ajleveriza1108/QuietShield-Chrome-Release",
-  "publishedAtUtc": "2026-09-04T00:09:00.2732315Z"
+  "publishedAtUtc": "2026-09-04T00:54:41.9781209Z"
 }
